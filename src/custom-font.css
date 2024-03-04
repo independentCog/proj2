@@ -1,0 +1,7 @@
+/* src/custom-font.css */
+@font-face {
+    font-family: 'Titillium Web';
+    src: url('../assets/fonts/TitilliumWeb-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}

@@ -1,0 +1,5 @@
+/* src/style.css */
+@import '/src/custom-font.css';
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
